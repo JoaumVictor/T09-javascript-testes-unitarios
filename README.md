@@ -1,5 +1,3 @@
-<></>
-
 <h1>Projeto JS Testes Unitários</h1>
 
 <img src="./img/img.png" />
